@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>Prim</title>
+	<style type="text/css">
+		#normal{
+			color:black;
+		}
+		#prime
+		{
+			color:red;
+		}
+		*{
+			font-size:11px;
+		}
+	</style>
+</head>
+<body>
+<table style="width:100%;">
+	{0}
+</table>
+</body>
